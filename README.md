@@ -9,7 +9,7 @@ CSS issues:
 -----------
 Using flex was easier than what I thougth. The issue in CSS was for the unclicked box.
 
-I've chosen to use button tag and opacity to have one element at the same time. 
+I've chosen to use button tag and opacity to have one element at the time. 
 
 ### No need to be responsive 
 
